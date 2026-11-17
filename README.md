@@ -11,4 +11,4 @@ Sistema web desenvolvido em Python (Flask) para apoio operacional aos voluntári
 ## Tecnologias
 - Back-end: Python 3, Flask
 - Front-end: HTML5, CSS3
-- Testes e Integração Contínua: Pytest, GitHub Actions# gestao-solidaria-mvp
+- Testes e Integração Contínua: Pytest, GitHub Actions
