@@ -1,4 +1,3 @@
-feat: implementa autenticacao, gestao de lotes PEPS e validacao de CPF.   
 from flask import Flask, request, jsonify
 from datetime import datetime
 
